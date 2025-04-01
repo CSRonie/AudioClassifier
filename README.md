@@ -2,8 +2,11 @@
 
 ## references:
 https://www.kaggle.com/models/google/yamnet/code
+
 https://github.com/tensorflow/models/blob/master/research/audioset/yamnet/yamnet_class_map.csv
+
 https://www.tensorflow.org/hub/tutorials/yamnet
+
 https://research.google.com/audioset/dataset/index.html
 
 ## Prerequisites
