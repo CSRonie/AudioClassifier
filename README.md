@@ -1,10 +1,10 @@
 # Project Setup
 
-# references:
-## https://www.kaggle.com/models/google/yamnet/code
-## https://github.com/tensorflow/models/blob/master/research/audioset/yamnet/yamnet_class_map.csv
-## https://www.tensorflow.org/hub/tutorials/yamnet
-## https://research.google.com/audioset/dataset/index.html
+## references:
+https://www.kaggle.com/models/google/yamnet/code
+https://github.com/tensorflow/models/blob/master/research/audioset/yamnet/yamnet_class_map.csv
+https://www.tensorflow.org/hub/tutorials/yamnet
+https://research.google.com/audioset/dataset/index.html
 
 ## Prerequisites
 Ensure you have Python 3.10 installed. You can check your Python version by running:
