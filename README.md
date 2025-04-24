@@ -1,5 +1,6 @@
 # Demo/Overview
    https://drive.google.com/file/d/1d6_tI1Jhi-vjPzYyphrgTIPFYfK1l4AY/view?usp=drive_link
+   To help deaf or hard-of-hearing individuals become more aware of surrounding dangers and provide timely alerts.
 # Project Setup
 
 ## Prerequisites
